@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Meghana Pedireddy
 
-<!--
-**meghanapedireddy71-dotcom/meghanapedireddy71-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student | 📊 Aspiring Data Analyst | 🏏 Cricket Analytics Enthusiast
 
-Here are some ideas to get you started:
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning, currently building my skills in Data Analytics and Cricket Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, finding meaningful insights, and turning them into simple and useful visualizations.
+
+### 🛠️ Currently Learning
+
+- 🐍 Python
+- 🐼 Pandas
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Data Analysis
+- 🤖 Artificial Intelligence & Machine Learning
+- 🏏 Cricket Analytics
+
+### 🎯 My Goal
+
+To build practical projects that combine **Data Analytics, AI/ML, and Cricket Analytics** and grow into a professional Data/Cricket Analyst.
+
+### 📂 Featured Projects
+
+🏏 **IPL Cricket Statistics Analysis System**
+
+A cricket data analysis project using Python, Pandas, and Matplotlib to explore IPL match statistics and generate meaningful insights.
+
+### 📚 Currently Working On
+
+- IPL Cricket Statistics Analysis
+- Python & Pandas for Data Analysis
+- SQL for Data Analytics
+- Power BI Dashboards
+- Cricket Analytics
+
+### 🤝 Let's Connect
+
+- 💼 LinkedIn: www.linkedin.com/in/meghana-pedireddy-1a221b395
+- 📧 Email: Coming soon
+
+---
+
+⭐ *Learning • Building • Analyzing • Improving*
